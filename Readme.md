@@ -1,3 +1,12 @@
+Вход / Регистрация
+![image](https://github.com/user-attachments/assets/d497d7e8-7f82-4030-a9fa-6b0e5d0e0a83)
+Учёт товаров
+![image](https://github.com/user-attachments/assets/1cebfd21-3a3f-4369-96ae-77717d815755)
+Редактирование Товара
+![image](https://github.com/user-attachments/assets/65484040-8f50-4cc0-95e0-d1631d083f08)
+
+Функционал: Вход, Выход, Фильтр по ID, По описанию товара, Редактирование Товара
+
 # MyApp
 
 This folder is primarily a container for the top-level pieces of the application.
